@@ -1,0 +1,64 @@
+{
+  "common": {
+    "cancel": "Cancel",
+    "save": "Save",
+    "create": "Create",
+    "update": "Update",
+    "edit": "Edit",
+    "delete": "Delete",
+    "back": "Back",
+    "loading": "Loading...",
+    "saving": "Saving...",
+    "error": "Error",
+    "success": "Success",
+    "confirm": "Confirm",
+    "discard": "Discard"
+  },
+  "navigation": {
+    "main": "Main",
+    "addNotes": "Add Notes",
+    "editNote": "Edit Note",
+    "noteDetails": "Note Details",
+    "notes": "Notes",
+    "settings": "Settings"
+  },
+  "home": {
+    "subtitle": "Organize your thoughts"
+  },
+  "note": {
+    "created": "Created:",
+    "updated": "Updated:",
+    "noteNumber": "Note #"
+  },
+  "notes": {
+    "title": "Title",
+    "description": "Description",
+    "titlePlaceholder": "Enter note title",
+    "descriptionPlaceholder": "Enter note description",
+    "titleRequired": "Title is required",
+    "titleMinLength": "Title must be at least 3 characters",
+    "descriptionRequired": "Description is required",
+    "descriptionMinLength": "Description must be at least 10 characters",
+    "characters": "characters",
+    "noNotes": "No notes yet",
+    "noNotesDescription": "Create your first note to get started",
+    "noteCreated": "Note created successfully!",
+    "noteUpdated": "Note updated successfully!",
+    "noteDeleted": "Note deleted successfully!",
+    "saveError": "Failed to save note. Please try again.",
+    "deleteError": "Failed to delete note. Please try again.",
+    "deleteNote": "Delete Note",
+    "deleteConfirm": "Are you sure you want to delete this note?",
+    "loading": "Loading notes...",
+    "createNote": "Create Note",
+    "discardChanges": "Discard Changes",
+    "discardChangesMessage": "Are you sure you want to discard your changes?",
+    "keepEditing": "Keep Editing"
+  },
+  "settings": {
+    "language": "Language",
+    "languageDescription": "Choose your preferred language",
+    "english": "English",
+    "ukrainian": "Ukrainian"
+  }
+}

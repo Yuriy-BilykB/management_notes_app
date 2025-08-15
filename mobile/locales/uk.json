@@ -1,0 +1,64 @@
+{
+  "common": {
+    "cancel": "Скасувати",
+    "save": "Зберегти",
+    "create": "Створити",
+    "update": "Оновити",
+    "edit": "Редагувати",
+    "delete": "Видалити",
+    "back": "Назад",
+    "loading": "Завантаження...",
+    "saving": "Збереження...",
+    "error": "Помилка",
+    "success": "Успішно",
+    "confirm": "Підтвердити",
+    "discard": "Відхилити"
+  },
+  "navigation": {
+    "main": "Головна",
+    "addNotes": "Додати нотатку",
+    "editNote": "Редагувати нотатку",
+    "noteDetails": "Деталі нотатки",
+    "notes": "Нотатки",
+    "settings": "Налаштування"
+  },
+  "home": {
+    "subtitle": "Організуйте свої думки"
+  },
+  "note": {
+    "created": "Створено:",
+    "updated": "Оновлено:",
+    "noteNumber": "Нотатка #"
+  },
+  "notes": {
+    "title": "Заголовок",
+    "description": "Опис",
+    "titlePlaceholder": "Введіть заголовок нотатки",
+    "descriptionPlaceholder": "Введіть опис нотатки",
+    "titleRequired": "Заголовок обов'язковий",
+    "titleMinLength": "Заголовок має бути не менше 3 символів",
+    "descriptionRequired": "Опис обов'язковий",
+    "descriptionMinLength": "Опис має бути не менше 10 символів",
+    "characters": "символів",
+    "noNotes": "Нотаток ще немає",
+    "noNotesDescription": "Створіть свою першу нотатку для початку",
+    "noteCreated": "Нотатку успішно створено!",
+    "noteUpdated": "Нотатку успішно оновлено!",
+    "noteDeleted": "Нотатку успішно видалено!",
+    "saveError": "Не вдалося зберегти нотатку. Спробуйте ще раз.",
+    "deleteError": "Не вдалося видалити нотатку. Спробуйте ще раз.",
+    "deleteNote": "Видалити нотатку",
+    "deleteConfirm": "Ви впевнені, що хочете видалити цю нотатку?",
+    "loading": "Завантаження нотаток...",
+    "createNote": "Створити нотатку",
+    "discardChanges": "Відхилити зміни",
+    "discardChangesMessage": "Ви впевнені, що хочете відхилити зміни?",
+    "keepEditing": "Продовжити редагування"
+  },
+  "settings": {
+    "language": "Мова",
+    "languageDescription": "Виберіть бажану мову",
+    "english": "Англійська",
+    "ukrainian": "Українська"
+  }
+}
