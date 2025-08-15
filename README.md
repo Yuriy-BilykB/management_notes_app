@@ -160,21 +160,6 @@ npm run web
 
 ## Testing
 
-### Backend Tests
-
-```bash
-cd backend
-
-# Unit tests
-npm run test
-
-# E2E tests
-npm run test:e2e
-
-# Test coverage
-npm run test:cov
-```
-
 ### Frontend E2E Tests
 
 ```bash
